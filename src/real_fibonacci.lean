@@ -36,6 +36,5 @@ begin
     simp,
     rw [ihn1, ihn2],
     
-    
 
 end
